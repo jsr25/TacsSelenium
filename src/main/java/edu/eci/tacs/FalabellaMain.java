@@ -28,5 +28,5 @@ public class FalabellaMain {
         input.sendKeys("Xbox");
         input.submit();
 
-    };
+    }
 }
